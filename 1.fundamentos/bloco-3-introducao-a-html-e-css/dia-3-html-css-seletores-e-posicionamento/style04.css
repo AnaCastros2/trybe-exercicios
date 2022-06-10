@@ -1,0 +1,35 @@
+
+div:hover {
+    border: 5px solid rgb(194, 210, 247)
+}
+
+#vermelho {
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+}
+
+#verde {
+    color: green;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#laranja {
+    color: orange;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 2em;
+    font-style: italic;
+}
+
+#preto {
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#amarelo {
+    color: rgb(255, 225, 0);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+
+
